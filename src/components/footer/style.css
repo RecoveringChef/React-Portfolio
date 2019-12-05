@@ -5,12 +5,23 @@
   background-color: black;
   color: white;
   font-weight: 500;
+  font-size: 12px;
   text-align: center;
   position: fixed;
   bottom: 0;
   background-image: linear-gradient(#b0bbbf, #8e7e70)
 }
-.first{
-  font-size: 12px;
 
+.uno{
+  float: left;
+  padding-left: 20%;
+}
+
+.dos{
+
+}
+
+.tres{
+  float: right;
+  padding-right: 20%;
 }
