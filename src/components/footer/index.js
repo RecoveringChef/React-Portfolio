@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <p className="first">
-        TESTING </p>
+        TESTING LINKY HERE </p>
 
 
     </footer>
